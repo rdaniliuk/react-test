@@ -1,0 +1,33 @@
+.createProduct {
+  width: 300px;
+  height: 100%;
+  padding: 10px;
+  background-color: #81c9df;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.createProduct p {
+  height: 10px;
+  font-size: 0.8rem;
+  color: red;
+}
+
+.card {
+  font-size: 0.6rem;
+  padding: 10px;
+  width: 210px;
+  height: 140px;
+  background-color: #81c9df;
+}
+
+.msg {
+  text-align: center;
+  width: 120px;
+  height: 55px;
+  font-weight: 800;
+  background-color: #81c9df;
+  border-radius: 10px;
+}

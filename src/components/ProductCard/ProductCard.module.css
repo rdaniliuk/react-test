@@ -1,0 +1,18 @@
+.card {
+  width: 200px;
+  height: 350px;
+  padding: 5px;
+  background-color: #81c9df;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}

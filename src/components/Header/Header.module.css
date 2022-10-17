@@ -1,0 +1,31 @@
+@import url(//db.onlinewebfonts.com/c/9a4b138bd9c8e1eba20dbd6a0bb1d832?family=Cooper+Black);
+
+.header {
+  width: 100%;
+  height: 3rem;
+  background-color: #81c9df;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Cooper Black";
+
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  background-color: #ecb865;
+  border-radius: 50%;
+}
+
+.title {
+  color: #ecb865;
+}
+
+.link {
+  text-decoration: none;
+  margin-right: 15px;
+  cursor: pointer;
+  color: #ecb865;
+}
